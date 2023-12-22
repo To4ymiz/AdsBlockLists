@@ -1,0 +1,4 @@
+reapertrans.com##.text-center.th-ban
+reapertrans.com##.ads-info
+reapertrans.com##.kln
+reapertrans.com##.text-center.sort-ban
